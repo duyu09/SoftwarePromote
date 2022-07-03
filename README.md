@@ -9,3 +9,6 @@ Copyright (c) 2022 Duyu,
 And Jinan LiCheng No.2 High School. Grade 55, Class 31 (No.5531028).)
 
 All rights reserved.
+
+## Statistics of Visiting Numbers
+<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_SoftwarePromote" /></div> 
